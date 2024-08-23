@@ -1,5 +1,3 @@
----
-
 # Activities Finder
 
 ## Overview
